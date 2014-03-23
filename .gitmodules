@@ -1,0 +1,3 @@
+[submodule "igra"]
+	path = igra
+	url = git://github.com/polakite/igra.git
